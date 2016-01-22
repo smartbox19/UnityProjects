@@ -1,8 +1,8 @@
-﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PauseMenu.js">
     <Files>
-      <File FileName="Assets/Scripts/PauseMenu.js" Line="22" Column="14" />
+      <File FileName="Assets/Scripts/PauseMenu.js" Line="58" Column="17" />
       <File FileName="Assets/Scripts/Demo.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
